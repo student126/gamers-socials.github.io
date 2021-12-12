@@ -1,0 +1,72 @@
+body {
+    font-family:'Dancing Script', cursive;
+    font-size: 2em;
+    padding:0;
+    margin: 0;
+}
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 4em;
+}
+h2 {
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 3em;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+/* IMAGE PRINCIPALE */
+#imagePrincipale {
+padding-top: 100px;
+background: url(https://www.jds.fr/medias/image/colmar-esport-show-2-123881-600-600-F.jpg) no-repeat fixed 50% 50%;
+background-size: cover;
+height: 699px;
+}
+h1 {
+font-family: 'dancing script', cursive;
+text-align: center;
+color: blue;
+font-size: 4em;
+margin-top: 40px;
+}
+
+/*PRESENTATION*/
+#presentation {
+    background-color:violet;
+    padding: 10px 0px 100px 0px;
+}
+#texteIntro {
+    padding: 0px 20px;
+}
+.imageTexteIntro {
+    margin: auto;
+    padding: 20px 300px;
+    font-family: 'Dancing Script', cursive; 
+    font-size: 0.5em;
+    text-align: center; 
+}
+#evenements {
+    justify-content: space-between;
+    padding: 30 px 10%;
+}
+.imageEvenements h2{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size:1.8em;
+    margin: 15px;
+}
+.imageEvenements {
+    padding: 10px 500px;
+}
+
+/*CONTACT*/
+#contact {
+    background: url('C:\Users\norik\Desktop\Gamers socials\logo email.png');
+    background-size: 10px 10px;
+    font-size: 0.5em;
+}
